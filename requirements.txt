@@ -1,0 +1,11 @@
+streamlit==1.37.0
+pandas
+Pillow
+numpy
+plotly
+extra-streamlit-components
+bcrypt
+# Следующие зависимости отключены для веб-версии
+# pytesseract
+# pdfplumber
+# openai
